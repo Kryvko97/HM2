@@ -83,6 +83,7 @@ text-transform: uppercase;
 color:var(--color-h1-title);
 }
 .hero-btb {
+font-family: inherit;
 cursor:pointer;
 font-weight: 500;
 font-size: 16px;
@@ -94,7 +95,7 @@ background:var(--buton-background-color);
 border-radius: 4px;
 
 }
-
+.hero-btb:focus,
 .hero-btb:hover{
 font-family: inherit;
 font-weight:700;
@@ -228,6 +229,7 @@ color: var(--text-link-color-hover);
 .work-item {
 }
 .work-btb {
+font-family: inherit;
 cursor:pointer;
 font-weight: 500;
 font-size: 16px;
@@ -238,6 +240,7 @@ color:var(--tex-buton-color);
 background:var(--buton-background-color);
 border-radius: 4px;
 }
+.work-btb:focus,
 .work-btb:hover{
 font-family: inherit;
 font-weight: 500;
