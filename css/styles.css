@@ -16,6 +16,7 @@ color: #212121;
 }
 
 .list {
+  list-style:none;
 }
 .link {
 text-decoration:none;
