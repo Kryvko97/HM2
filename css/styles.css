@@ -65,7 +65,7 @@ letter-spacing: 0.02em;
 color:var(--color-ddress);
 }
 .contakt-link:hover,
-.contakt-link :focus{
+.contakt-link:focus{
 color:var(--text-link-color-hover);
 } 
 /*--------------HERO-------------------*/
@@ -206,6 +206,7 @@ line-height:calc(24/14);
 letter-spacing: 0.03em;
 color: #FFFFFF;
 }
+.footer-link:focus,
 .footer-link:hover{
 color: var(--text-link-color-hover);
 }
